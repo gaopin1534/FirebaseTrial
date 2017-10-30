@@ -1,6 +1,0 @@
-framework module Pods_FirebaseTrial {
-  umbrella header "Pods-FirebaseTrial-umbrella.h"
-
-  export *
-  module * { export * }
-}
